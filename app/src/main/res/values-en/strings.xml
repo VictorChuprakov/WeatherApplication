@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="index_low">Low</string>
+    <string name="index_high">High</string>
+    <string name="index_excellent">Excellent</string>
+    <string name="index_unknown">Unknown</string>
+    <string name="index_dangerous">Dangerous</string>
+    <string name="index_very_bad">Very Bad</string>
+    <string name="index_bad">Bad</string>
+    <string name="index_normal">Normal</string>
+    <string name="index_acceptable">Acceptable</string>
+    <string name="air_quality_index_header">Air Quality Index</string>
+    <string name="uv_index_header">UV Index</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind">Wind</string>
+    <string name="dew_point">Dew Point</string>
+    <string name="pressure">Pressure</string>
+    <string name="visibility">Visibility</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="moonset">Moonset</string>
+    <string name="moonrise">Moonrise</string>
+</resources>

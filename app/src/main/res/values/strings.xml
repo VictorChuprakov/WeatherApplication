@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="index_low">Низкая</string>
+    <string name="index_high">Высокая</string>
+    <string name="index_excellent">Отлично</string>
+    <string name="index_unknown">Неизвестно</string>
+    <string name="index_dangerous">Опасно</string>
+    <string name="index_very_bad">Очень плохо</string>
+    <string name="index_bad">Плохо</string>
+    <string name="index_normal">Нормально</string>
+    <string name="index_acceptable">Приемлемо</string>
+    <string name="air_quality_index_header">Индекс качества воздуха</string>
+    <string name="uv_index_header">УФ-индекс</string>
+    <string name="humidity">Влажность</string>
+    <string name="wind">Ветер</string>
+    <string name="dew_point">Точка росы</string>
+    <string name="pressure">Давление</string>
+    <string name="visibility">Видимость</string>
+    <string name="sunrise">Восход</string>
+    <string name="sunset">Закат</string>
+    <string name="moonset">Заход луны</string>
+    <string name="moonrise">Восход луны</string>
+</resources>
